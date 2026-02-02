@@ -1,2 +1,1 @@
-# TCS-PRA
-## TCS PRA & HackerRank SE Certification Test Study Material
+# TCS PRA & HackerRank SE Certification Test Study Material
