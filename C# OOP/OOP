@@ -1,0 +1,8 @@
+#Object Oriented Programming 
+Before diving into the languages, let's understand the core concepts of OOP:
+1.Class: A blueprint or template for creating objects. Defines attributes and behaviors.
+2.Object: An instance of a class. Each object has state (attributes) and behavior (methods).
+3.Encapsulation: Bundling data (attributes) and methods that operate on data within one unit (class), hiding internal state from outside.
+4.Inheritance: Mechanism where a new class derives properties and behaviors from an existing class.
+5.Polymorphism: Ability of different classes to be treated as instances of the same class through inheritance. It allows methods to do different things based on the object calling them.
+6.Abstraction: Hiding complex implementation details and showing only the necessary features.
